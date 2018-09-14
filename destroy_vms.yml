@@ -3,7 +3,7 @@
   gather_facts: no
   vars:
       storage_account_name: "ansibleworkshop"
-      virtual_network_name: "ansibleworkshop"
+      virtual_network_name: "ansibleworkshop-vnet"
       resource_group: "ansibleworkshop"
       location: "westeurope"
 
