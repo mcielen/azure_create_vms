@@ -4,7 +4,7 @@
   vars:
       storage_account_name: "ansibleworkshop"
       virtual_network_name: "ansibleworkshop"
-      resource_group: "ansibleworkshop"
+      resource_group: "ansible-workshop"
       location: "westeurope"
 
   tasks:

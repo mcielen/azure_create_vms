@@ -19,7 +19,7 @@
       location: "{{ location }}"
       vm_size: "{{ vm_size }}"
       public_ip_allocation_method: Dynamic
-      open_ports: 
+      open_ports:
         - 22
         - 80
         - 9090
