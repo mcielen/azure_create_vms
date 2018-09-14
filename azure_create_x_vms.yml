@@ -3,9 +3,9 @@
   gather_facts: no
   vars:
       storage_account_name: "ansibleworkshopdiag965"
-      virtual_network_name: "ansible-workshop-vnet"
+      virtual_network_name: "ansibleworkshop-vnet"
       rhel7_version: "7.3.2017032021"
-      resource_group: "ansible-workshop"
+      resource_group: "ansibleworkshop"
       location: "westeurope"
       vm_size: "Standard_F1"
       rhel_sku: "7.3"

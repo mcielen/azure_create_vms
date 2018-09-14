@@ -2,11 +2,11 @@
 - hosts: localhost
   gather_facts: no
   vars:
-      storage_account_name: "ansible-workshop"
-      virtual_network_name: "ansible-workshop"
+      storage_account_name: "ansibleworkshop"
+      virtual_network_name: "ansibleworkshop"
       virtual_subnet_name: "ansiblehandson"
       rhel7_version: "7.3.2017032021"
-      resource_group: "ansible-workshop"
+      resource_group: "ansibleworkshop"
       location: "westeurope"
       vm_size: "Standard_F2s_v2"
       rhel_sku: "7.3"

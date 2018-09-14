@@ -2,9 +2,9 @@
 - hosts: localhost
   gather_facts: no
   vars:
-      storage_account_name: "ansible-workshop"
-      virtual_network_name: "ansible-workshop"
-      resource_group: "ansible-workshop"
+      storage_account_name: "ansibleworkshop"
+      virtual_network_name: "ansibleworkshop"
+      resource_group: "ansibleworkshop"
       location: "westeurope"
 
   tasks:
